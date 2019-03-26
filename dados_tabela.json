@@ -1,0 +1,302 @@
+[
+    {
+        "Ranking": "1",
+        "Universidade": "Pontificia Universidad Cat\u00f3lica de Chile",
+        "Pa\u00eds": "Chile",
+        "Nota": "100.0"
+    },
+    {
+        "Ranking": "2",
+        "Universidade": "Universidade de S\u00e3o Paulo (USP)",
+        "Pa\u00eds": "Brasil",
+        "Nota": "98.9"
+    },
+    {
+        "Ranking": "3",
+        "Universidade": "Universidade Estadual de Campinas (Unicamp)",
+        "Pa\u00eds": "Brasil",
+        "Nota": "97.1"
+    },
+    {
+        "Ranking": "4",
+        "Universidade": "Universidade Federal do Rio de Janeiro (UFRJ)",
+        "Pa\u00eds": "Brasil",
+        "Nota": "95.5"
+    },
+    {
+        "Ranking": "5",
+        "Universidade": "Universidad de Los Andes Colombia",
+        "Pa\u00eds": "Col\u00f4mbia",
+        "Nota": "94.7"
+    },
+    {
+        "Ranking": "6",
+        "Universidade": "Universidad de Chile",
+        "Pa\u00eds": "Chile",
+        "Nota": "94.1"
+    },
+    {
+        "Ranking": "7",
+        "Universidade": "Tecnol\u00f3gico de Monterrey (ITESM)",
+        "Pa\u00eds": "M\u00e9xico",
+        "Nota": "91.4"
+    },
+    {
+        "Ranking": "8",
+        "Universidade": "Universidad Nacional Aut\u00f3noma de M\u00e9xico (UNAM)",
+        "Pa\u00eds": "M\u00e9xico",
+        "Nota": "91.0"
+    },
+    {
+        "Ranking": "9",
+        "Universidade": "Universidade Estadual Paulista \u201cJ\u00falio de Mesquita Filho\u201d (UNESP)",
+        "Pa\u00eds": "Brasil",
+        "Nota": "90.3"
+    },
+    {
+        "Ranking": "10",
+        "Universidade": "Universidade Federal de Minas Gerais (UFMG)",
+        "Pa\u00eds": "Brasil",
+        "Nota": "87.3"
+    },
+    {
+        "Ranking": "10",
+        "Universidade": "Universidade Federal do Rio Grande Do Sul (UFRGS)",
+        "Pa\u00eds": "Brasil",
+        "Nota": "87.3"
+    },
+    {
+        "Ranking": "12",
+        "Universidade": "Universidad de Concepci\u00f3n",
+        "Pa\u00eds": "Chile",
+        "Nota": "86.1"
+    },
+    {
+        "Ranking": "13",
+        "Universidade": "Pontificia Universidade Cat\u00f3lica do Rio de Janeiro (PUC \u2013 Rio)",
+        "Pa\u00eds": "Brasil",
+        "Nota": "85.4"
+    },
+    {
+        "Ranking": "14",
+        "Universidade": "Universidad Nacional de Colombia",
+        "Pa\u00eds": "Col\u00f4mbia",
+        "Nota": "84.6"
+    },
+    {
+        "Ranking": "15",
+        "Universidade": "Universidade Federal de S\u00e3o Paulo (UNIFESP)",
+        "Pa\u00eds": "Brasil",
+        "Nota": "84.2"
+    },
+    {
+        "Ranking": "16",
+        "Universidade": "Universidad de Santiago de Chile (USACH)",
+        "Pa\u00eds": "Chile",
+        "Nota": "84.1"
+    },
+    {
+        "Ranking": "17",
+        "Universidade": "Universidade de Brasilia (UnB)",
+        "Pa\u00eds": "Brasil",
+        "Nota": "82.2"
+    },
+    {
+        "Ranking": "18",
+        "Universidade": "Universidade Federal de S\u00e3o Carlos",
+        "Pa\u00eds": "Brasil",
+        "Nota": "82.0"
+    },
+    {
+        "Ranking": "19",
+        "Universidade": "Universidad de Buenos Aires",
+        "Pa\u00eds": "Argentina",
+        "Nota": "81.3"
+    },
+    {
+        "Ranking": "20",
+        "Universidade": "Universidad Austral \u2013 Argentina",
+        "Pa\u00eds": "Argentina",
+        "Nota": "80.7"
+    },
+    {
+        "Ranking": "21",
+        "Universidade": "Universidad Nacional de La Plata",
+        "Pa\u00eds": "Argentina",
+        "Nota": "79.2"
+    },
+    {
+        "Ranking": "22",
+        "Universidade": "Pontificia Universidad Cat\u00f3lica Argentina Santa Mar\u00eda de los Buenos Aires \u2013 UCA",
+        "Pa\u00eds": "Argentina",
+        "Nota": "78.9"
+    },
+    {
+        "Ranking": "23",
+        "Universidade": "Universidad de Antioquia",
+        "Pa\u00eds": "Col\u00f4mbia",
+        "Nota": "78.7"
+    },
+    {
+        "Ranking": "23",
+        "Universidade": "Universidad de Costa Rica",
+        "Pa\u00eds": "Costa Rica",
+        "Nota": "78.7"
+    },
+    {
+        "Ranking": "25",
+        "Universidade": "Universidad Nacional de C\u00f3rdoba",
+        "Pa\u00eds": "Argentina",
+        "Nota": "78.5"
+    },
+    {
+        "Ranking": "26",
+        "Universidade": "Instituto Polit\u00e9cnico Nacional (IPN)",
+        "Pa\u00eds": "M\u00e9xico",
+        "Nota": "78.0"
+    },
+    {
+        "Ranking": "27",
+        "Universidade": "Universidad Central de Venezuela (UCV)",
+        "Pa\u00eds": "Venezuela",
+        "Nota": "77.9"
+    },
+    {
+        "Ranking": "28",
+        "Universidade": "Universidad Iberoamericana (UIA)",
+        "Pa\u00eds": "M\u00e9xico",
+        "Nota": "77.8"
+    },
+    {
+        "Ranking": "29",
+        "Universidade": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+        "Pa\u00eds": "Chile",
+        "Nota": "77.3"
+    },
+    {
+        "Ranking": "30",
+        "Universidade": "Pontificia Universidad Cat\u00f3lica del Per\u00fa",
+        "Pa\u00eds": "Peru",
+        "Nota": "76.9"
+    },
+    {
+        "Ranking": "31",
+        "Universidade": "Pontificia Universidad Javeriana",
+        "Pa\u00eds": "Col\u00f4mbia",
+        "Nota": "76.5"
+    },
+    {
+        "Ranking": "32",
+        "Universidade": "Universidad Sim\u00f3n Bol\u00edvar Venezuela",
+        "Pa\u00eds": "Venezuela",
+        "Nota": "76.3"
+    },
+    {
+        "Ranking": "33",
+        "Universidade": "Pontificia Universidade Cat\u00f3lica de S\u00e3o Paulo (PUC -SP)",
+        "Pa\u00eds": "Brasil",
+        "Nota": "75.6"
+    },
+    {
+        "Ranking": "34",
+        "Universidade": "Universidade do Estado do Rio de Janeiro (UERJ)",
+        "Pa\u00eds": "Brasil",
+        "Nota": "75.2"
+    },
+    {
+        "Ranking": "35",
+        "Universidade": "Universidad Aut\u00f3noma Metropolitana (UAM)",
+        "Pa\u00eds": "M\u00e9xico",
+        "Nota": "74.7"
+    },
+    {
+        "Ranking": "36",
+        "Universidade": "Instituto Tecnol\u00f3gico Autonomo de M\u00e9xico (ITAM)",
+        "Pa\u00eds": "M\u00e9xico",
+        "Nota": "73.8"
+    },
+    {
+        "Ranking": "37",
+        "Universidade": "Universidad Austral de Chile",
+        "Pa\u00eds": "Chile",
+        "Nota": "72.6"
+    },
+    {
+        "Ranking": "38",
+        "Universidade": "Pontificia Universidade Cat\u00f3lica do Rio Grande do Sul",
+        "Pa\u00eds": "Brasil",
+        "Nota": "72.5"
+    },
+    {
+        "Ranking": "39",
+        "Universidade": "Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+        "Pa\u00eds": "Chile",
+        "Nota": "71.5"
+    },
+    {
+        "Ranking": "40",
+        "Universidade": "Universidade Federal do Paran\u00e1 (UFPR)",
+        "Pa\u00eds": "Brasil",
+        "Nota": "71.2"
+    },
+    {
+        "Ranking": "41",
+        "Universidade": "Universidade Federal de Santa Catarina",
+        "Pa\u00eds": "Brasil",
+        "Nota": "70.0"
+    },
+    {
+        "Ranking": "42",
+        "Universidade": "Universidad del Rosario",
+        "Pa\u00eds": "Col\u00f4mbia",
+        "Nota": "68.5"
+    },
+    {
+        "Ranking": "43",
+        "Universidade": "Universidade Federal do Pernambuco",
+        "Pa\u00eds": "Brasil",
+        "Nota": "68.2"
+    },
+    {
+        "Ranking": "44",
+        "Universidade": "Universidad Torcuato Di Tella",
+        "Pa\u00eds": "Argentina",
+        "Nota": "68.1"
+    },
+    {
+        "Ranking": "45",
+        "Universidade": "Instituto Tecnol\u00f3gico de Buenos Aires (ITBA)",
+        "Pa\u00eds": "Argentina",
+        "Nota": "66.6"
+    },
+    {
+        "Ranking": "46",
+        "Universidade": "Universidad de San Andr\u00e9s",
+        "Pa\u00eds": "Argentina",
+        "Nota": "66.4"
+    },
+    {
+        "Ranking": "46",
+        "Universidade": "Universidad Nacional de Rosario",
+        "Pa\u00eds": "Argentina",
+        "Nota": "66.4"
+    },
+    {
+        "Ranking": "48",
+        "Universidade": "Universidad de Puerto Rico",
+        "Pa\u00eds": "Puerto Rico",
+        "Nota": "66.3"
+    },
+    {
+        "Ranking": "49",
+        "Universidade": "Universidade Federal Fluminense",
+        "Pa\u00eds": "Brasil",
+        "Nota": "66.0"
+    },
+    {
+        "Ranking": "50",
+        "Universidade": "Universidad de las Am\u00e9ricas Puebla (UDLAP)",
+        "Pa\u00eds": "M\u00e9xico",
+        "Nota": "65.6"
+    }
+]

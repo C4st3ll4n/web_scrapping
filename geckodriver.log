@@ -1,0 +1,604 @@
+1537163671938	geckodriver	INFO	geckodriver 0.21.0
+1537163671947	geckodriver	INFO	Listening on 127.0.0.1:61063
+1537163675042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Henrique\\AppData\\Local\\Temp\\rust_mozprofile.292k6AbLFGlM"
+1537163734879	geckodriver	INFO	geckodriver 0.21.0
+1537163734896	geckodriver	INFO	Listening on 127.0.0.1:61218
+1537163737889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Henrique\\AppData\\Local\\Temp\\rust_mozprofile.2nMIsWBuqIRb"
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+1537163743336	Marionette	INFO	Listening on port 61234
+1537163743426	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.glbimg.com/v1/AUTH_b002e0039b9f46a5a4a94ff667d31e2d/assets/dist/ed146c3ff5bcc983b73e2b694cfa8c21.js, line 1: Error: [Horizon] Invalid data. multicontent-load 3.0. ValidationError: Invalid type: undefined (expected string)
+JavaScript error: https://s3.glbimg.com/v1/AUTH_b002e0039b9f46a5a4a94ff667d31e2d/assets/dist/ed146c3ff5bcc983b73e2b694cfa8c21.js, line 1: TypeError: e.Paint['first-paint'] is undefined
+JavaScript error: https://vitrines.globo.com/vitrine/vitrine.min.js, line 2: SyntaxError: An invalid or illegal string was specified
+JavaScript error: https://s3.glbimg.com/v1/AUTH_b002e0039b9f46a5a4a94ff667d31e2d/assets/dist/ed146c3ff5bcc983b1537163914616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Henrique\\AppData\\Local\\Temp\\rust_mozprofile.LxX8hg5ilOnW"
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+1537163919163	Marionette	INFO	Listening on port 61794
+1537163919544	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.glbimg.com/v1/AUTH_b002e0039b9f46a5a4a94ff667d31e2d/assets/dist/ed146c3ff5bcc983b73e2b694cfa8c21.js, line 1: TypeError: e.Paint['first-paint'] is undefined
+JavaScript error: https://s3.glbimg.com/v1/AUTH_b002e0039b9f46a5a4a94ff667d31e2d/assets/dist/ed146c3ff5bcc983b73e2b694cfa8c21.js, line 1: TypeError: this.horizon is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 2264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2264, Chrome_ChildThre[Child 10584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10584, Chrome_ChildThread] *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 6008, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537163978628	geckodriver	INFO	geckodriver 0.21.0
+1537163978639	geckodriver	INFO	Listening on 127.0.0.1:62059
+1537163981648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Henrique\\AppData\\Local\\Temp\\rust_mozprofile.aPWpvalySSnb"
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+1537163986663	Marionette	INFO	Listening on port 62073
+1537163987072	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.glbimg.com/v1/AUTH_b002e0039b9f46a5a4a94ff667d31e2d/assets/dist/ed146c3ff5bcc983b73e2b694cfa8c21.js, line 1: TypeError: e.Paint['first-paint'] is undefined
+JavaScript error: https://s3.glbimg.com/v1/AUTH_b002e0039b9f46a5a4a94ff667d31e2d/assets/dist/ed146c3ff5bcc983b73e2b694cfa8c21.js, line 1: TypeError: this.horizon is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 9368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6020, Chr[Parent 1348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7000, Chrome_ChildThread*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 5812, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537164030812	geckodriver	INFO	geckodriver 0.21.0
+1537164030823	geckodriver	INFO	Listening on 127.0.0.1:62320
+1537164033842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Henrique\\AppData\\Local\\Temp\\rust_mozprofile.SxTrNX9Z83E3"
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+1537164038635	Marionette	INFO	Listening on port 62344
+1537164038775	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.glbimg.com/v1/AUTH_b002e0039b9f46a5a4a94ff667d31e2d/assets/dist/ed146c3ff5bcc983b73e2b694cfa8c21.js, line 1: TypeError: e.Paint['first-paint'] is undefined
+JavaScript error: https://s3.glbimg.com/v1/AUTH_b002e0039b9f46a5a4a94ff667d31e2d/assets/dist/ed146c3ff5bcc983b73e2b694cfa8c21.js, line 1: TypeError: this.horizon is undefined
+[Parent 1240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 1240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537164475842	geckodriver	INFO	geckodriver 0.21.0
+1537164475852	geckodriver	INFO	Listening on 127.0.0.1:63489
+1537164478872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Henrique\\AppData\\Local\\Temp\\rust_mozprofile.nS9SOAcft5f5"
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+1537164483722	Marionette	INFO	Listening on port 63503
+1537164483886	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.glbimg.com/v1/AUTH_b002e0039b9f46a5a4a94ff667d31e2d/assets/dist/ed146c3ff5bcc983b73e2b694cfa8c21.js, line 1: TypeError: e.Paint['first-paint'] is undefined
+JavaScript error: https://s3.glbimg.com/v1/AUTH_b002e0039b9f46a5a4a94ff667d31e2d/assets/dist/ed146c3ff5bcc983b73e2b694cfa8c21.js, line 1: TypeError: this.horizon is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 1744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 3892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11240, C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537164510536	geckodriver	INFO	geckodriver 0.21.0
+1537164510547	geckodriver	INFO	Listening on 127.0.0.1:63691
+1537164513568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Henrique\\AppData\\Local\\Temp\\rust_mozprofile.1rp4WzId2v6E"
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+1537164517880	Marionette	INFO	Listening on port 63704
+1537164517891	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://educacao.uol.com.br/colunas/maria-alice-setubal/2017/04/25/o-medo-da-prova-revela-que-precisamos-rever-nossas-avaliacoes.htm, line 10: ReferenceError: $ is not defined
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript error: https://educacao.uol.com.br/colunas/maria-alice-setubal/2017/04/25/o-medo-da-prova-revela-que-precisamos-rever-nossas-avaliacoes.htm, line 10: ReferenceError: $ is not defined
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003059;ord=1537164617594;channel=educacao.uol.com.br;click=, line 27: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003059;ord=1537164617594;channel=educacao.uol.com.br;click=, line 27: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/uoltm.js?id=twjw4y line 1 > Function, line 4: TypeError: document.qu1537164643979	mozrunner::r[Child 12272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12272, Chrome_ChildThread] WARNING: pipe error: 109:Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+1537164650590	Marionette	INFO	Listening on port 64189
+1537164650613	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://educacao.uol.com.br/colunas/maria-alice-setubal/2017/04/25/o-medo-da-prova-revela-que-precisamos-rever-nossas-avaliacoes.htm, line 10: ReferenceError: $ is not defined
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003059;ord=1537164662345;channel=educacao.uol.com.br;click=, line 27: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003059;ord=1537164662345;channel=educacao.uol.com.br;click=, line 27: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/uoltm.js?id=twjw4y line 1 > Function, line 4: TypeError: document.querySelector(...) is null
+[Child 8764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8764, ChromIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLaJavaScript error: https://educacao.uol.com.br/colunas/maria-alice-setubal/2017/04/25/o-medo-da-prova-revela-que-precisamos-rever-nossas-avaliacoes.htm, line 10: ReferenceError: $ is not defined
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003059;ord=1537164820239;channel=educacao.uol.com.br;click=, line 27: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003059;ord=1537164820239;channel=educacao.uol.com.br;click=, line 27: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/uoltm.js?id=twjw4y line 1 > Function, line 4: TypeError: document.querySelector(...) is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deJavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003059;ord=1537165018065;channel=educacao.uol.com.br;click=, line 27: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003059;ord=1537165018065;channel=educacao.uol.com.br;click=, line 27: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/uoltm.js?id=twjw4y line 1 > Function, line 4: TypeError: document.querySelector(...) is null
+[Child 3912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[GPU 6812, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+essage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 2204, Chrome_ChildThread] WARNING: p[Parent 11796, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2188, C[GPU 11144, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537165121024	geckodriver	INFO	geckodriver 0.21.0
+1537165121034	geckodriver	INFO	Listening on 127.0.0.1:49514
+1537165124034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Henrique\\AppData\\Local\\Temp\\rust_mozprofile.fs9Kg9eFbAEB"
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+1537165129457	Marionette	INFO	Listening on port 49530
+1537165129558	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://educacao.uol.com.br/colunas/maria-alice-setubal/2017/04/25/o-medo-da-prova-revela-que-precisamos-rever-nossas-avaliacoes.htm, line 10: ReferenceError: $ is not defined
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003059;ord=1537165138192;channel=educacao.uol.com.br;click=, line 27: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003059;ord=1537165138192;channel=educacao.uol.com.br;click=, line 27: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/uoltm.js?id=twjw4y line 1 > Function, line 4: TypeError: document.querySelector(...) is null
+[Parent 9428, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9428, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9428, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\openvrpaths.vrpath
+1537166045912	Marionette	INFO	Listening on port 51691
+1537166046037	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003059;ord=1537166051951;channel=educacao.uol.com.br;click=, line 27: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003059;ord=1537166051951;channel=educacao.uol.com.br;click=, line 27: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/uoltm.js?id=twjw4y line 1 > Function, line 4: TypeError: document.querySelector(...) is null
+[Child 9864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9864, Chrome_ChildThr[Parent 1736, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5828, Chrome_ChildThread] WARNING: [Parent 1736, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6868, C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 1660, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537166180392	geckodriver	INFO	geckodriver 0.21.0
+1537166180402	geckodriver	INFO	Listening on 127.0.0.1:52177
+1537166183420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Henrique\\AppData\\Local\\Temp\\rust_mozprofile.EIb0w5sxZdhg"
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+1537166187946	Marionette	INFO	Listening on port 52194
+1537166188833	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://educacao.uol.com.br/colunas/maria-alice-setubal/2017/04/25/o-medo-da-prova-revela-que-precisamos-rever-nossas-avaliacoes.htm, line 10: ReferenceError: $ is not defined
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003059;ord=1537166195707;channel=educacao.uol.com.br;click=, line 27: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003059;ord=1537166195707;channel=educacao.uol.com.br;click=, line 27: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/uoltm.js?id=twjw4y line 1 > Function, line 4: TypeError: document.querySelector(...) is null
+[Parent 8316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2108, Chrome_ChildTh[Parent 8316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11152, Chr*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 9740, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537166233106	geckodriver	INFO	geckodriver 0.21.0
+1537166233116	geckodriver	INFO	Listening on 127.0.0.1:52516
+1537166236118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Henrique\\AppData\\Local\\Temp\\rust_mozprofile.3p4TiQaM8RTG"
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+1537166240089	Marionette	INFO	Listening on port 52528
+1537166240436	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://educacao.uol.com.br/colunas/maria-alice-setubal/2017/04/25/o-medo-da-prova-revela-que-precisamos-rever-nossas-avaliacoes.htm, line 10: ReferenceError: $ is not defined
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003059;ord=1537166247299;channel=educacao.uol.com.br;click=, line 27: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003059;ord=1537166247299;channel=educacao.uol.com.br;click=, line 27: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/uoltm.js?id=twjw4y line 1 > Function, line 4: TypeError: document.querySelector(...) is null
+[Child 7372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7372, [Parent 7600, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7600, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 7388, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537166559604	geckodriver	INFO	geckodriver 0.21.0
+1537166559614	geckodriver	INFO	Listening on 127.0.0.1:53395
+1537166562615	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Henrique\\AppData\\Local\\Temp\\rust_mozprofile.eZxE8ObH3zZS"
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+1537166566640	Marionette	INFO	Listening on port 53408
+1537166566929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript error: https://educacao.uol.com.br/colunas/maria-alice-setubal/2017/04/25/o-medo-da-prova-revela-que-precisamos-rever-nossas-avaliacoes.htm, line 10: ReferenceError: $ is not defined
+JavaScript warning: https://t.dynad.net/script/?dc=5550003059;ord=1537166576602;channel=educacao.uol.com.br;click=, line 27: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003059;ord=1537166576602;channel=educacao.uol.com.br;click=, line 27: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/uoltm.js?id=twjw4y line 1 > Function, line 4: TypeError: document.querySelector(...) is null
+[Parent 4864, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8444, C[Child 8116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4864, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10920, Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 4736, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537166671289	geckodriver	INFO	geckodriver 0.21.0
+1537166671300	geckodriver	INFO	Listening on 127.0.0.1:53858
+1537166674316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Henrique\\AppData\\Local\\Temp\\rust_mozprofile.och5bKkqu7oN"
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+1537166677932	Marionette	INFO	Listening on port 53872
+1537166678132	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript error: https://educacao.uol.com.br/colunas/maria-alice-setubal/2017/04/25/o-medo-da-prova-revela-que-precisamos-rever-nossas-avaliacoes.htm, line 10: ReferenceError: $ is not defined
+JavaScript warning: https://t.dynad.net/script/?dc=5550003059;ord=1537166685350;channel=educacao.uol.com.br;click=, line 27: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003059;ord=1537166685350;channel=educacao.uol.com.br;click=, line 27: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/uoltm.js?id=twjw4y line 1 > Function, line 4: TypeError: document.querySelector(...) is null
+[Parent 7280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9664, Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 6520, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537167793465	geckodriver	INFO	geckodriver 0.21.0
+1537167793476	geckodriver	INFO	Listening on 127.0.0.1:56737
+1537167796493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Henrique\\AppData\\Local\\Temp\\rust_mozprofile.nG5fL4zkisl7"
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+1537167800804	Marionette	INFO	Listening on port 56751
+1537167800817	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://educacao.uol.com.br/colunas/maria-alice-setubal/2017/04/25/o-medo-da-prova-revela-que-precisamos-rever-nossas-avaliacoes.htm, line 10: ReferenceError: $ is not defined
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003059;ord=1537167808037;channel=educacao.uol.com.br;click=, line 27: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003059;ord=1537167808037;channel=educacao.uol.com.br;click=, line 27: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/uoltm.js?id=twjw4y line 1 > Function, line 4: TypeError: document.querySelector(...) is null
+[Child 2816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 796, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537168018645	geckodriver	INFO	geckodriver 0.21.0
+1537168018663	geckodriver	INFO	Listening on 127.0.0.1:57467
+1537168021660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Henrique\\AppData\\Local\\Temp\\rust_mozprofile.og6cN8b0nrLb"
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+1537168025874	Marionette	INFO	Listening on port 57479
+1537168025978	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003059;ord=1537168034439;channel=educacao.uol.com.br;click=, line 27: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003059;ord=1537168034439;channel=educacao.uol.com.br;click=, line 27: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/uoltm.js?id=twjw4y line 1 > Function, line 4: TypeError: document.querySelector(...) is null
+[Parent 3580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4788, C[Parent 3580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6592, Chrome_ChildThread] WAR*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 6320, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537168205117	geckodriver	INFO	geckodriver 0.21.0
+1537168205128	geckodriver	INFO	Listening on 127.0.0.1:58139
+1537168208133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Henrique\\AppData\\Local\\Temp\\rust_mozprofile.j4urzRJEJ5n7"
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+1537168212909	Marionette	INFO	Listening on port 58168
+1537168213058	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003059;ord=1537168221616;channel=educacao.uol.com.br;click=, line 27: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003059;ord=1537168221616;channel=educacao.uol.com.br;click=, line 27: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/uoltm.js?id=twjw4y line 1 > Function, line 4: TypeError: document.querySelector(...) is null
+[Child 10252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10252,[Child 11544, Ch[Parent 1628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2536, Chr*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 1360, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537168265161	geckodriver	INFO	geckodriver 0.21.0
+1537168265171	geckodriver	INFO	Listening on 127.0.0.1:58525
+1537168268187	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Henrique\\AppData\\Local\\Temp\\rust_mozprofile.6hRNsmim5veq"
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Henrique\AppData\Local\openvr\openvrpaths.vrpath
+1537168272261	Marionette	INFO	Listening on port 58538
+1537168272502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://educacao.uol.com.br/colunas/maria-alice-setubal/2017/04/25/o-medo-da-prova-revela-que-precisamos-rever-nossas-avaliacoes.htm, line 10: ReferenceError: $ is not defined
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=twjw4y, line 1: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003059;ord=1537168280036;channel=educacao.uol.com.br;click=, line 27: unreachable code after return statement
+JavaScript warning: https://t.dynad.net/script/?dc=5550003059;ord=1537168280036;channel=educacao.uol.com.br;click=, line 27: unreachable code after return statement
+JavaScript error: https://tm.jsuol.com.br/uoltm.js?id=twjw4y line 1 > Function, line 4: TypeError: document.querySelector(...) is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 8708, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3176, C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
